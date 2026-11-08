@@ -10,6 +10,7 @@ En este ejercicio, trabajaremos con un archivo CSV (valores separados por comas)
 * Pandas
 
 ## Uso 
+
 1. Descarga el dataset desde la web kaggle (Amazon Top 50 Bestselling Books 2009 - 2019)
 3. El nombre del archivo debe ser el tuyo, el mio es bestsellersAmazon.csv
 4. Establecer ruta local o remota de tus archivos en la variable my_path_file, se recomienda que sea la misma ruta de tu proyecto.
